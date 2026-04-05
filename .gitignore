@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.log
+.env
+data/backup/
+saved_model/
+notebooks/.ipynb_checkpoints/
